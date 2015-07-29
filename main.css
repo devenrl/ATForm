@@ -1,0 +1,60 @@
+@import url('bootstrap.min.css');
+
+
+.darkBG{
+	background:#999;
+}
+
+.darkerBG{
+	background: #666;
+}
+
+.darkestBG{
+	background:#333;
+}
+
+.myPanel{
+	margin: 3%;
+	border:1px solid #687D6D;
+	border-radius: 4px 4px 0px 0px;	
+}
+.myPanel .header {
+	background: #99CCFF;
+	padding: 10px 20px;
+	color: white;
+	text-shadow: grey .1em .1em .2em;
+
+
+}
+
+.myPanel .form-group {
+	padding: 10px;
+}
+
+h1{
+	color:white;
+}
+
+.row{
+	padding-top: 5px;
+}
+.jumbotron {
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0px;
+    background-image: url(http://www.layoverguide.com/wp-content/uploads/2011/03/Chicago-skyline-panorama-Illinois.jpg);
+    background-position: 50% 50%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color:white;
+    text-shadow: black .2em .2em .8em;
+    text-align: center;
+    padding: 15%;
+}
+
+
+.well{
+	padding-top:20px;
+	
+}
+
